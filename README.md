@@ -31,19 +31,15 @@ cd [프로젝트 폴더 이름, 예: eat-n-split]
    프로젝트 디렉토리로 이동한 후, 필요한 모든 Node.js 패키지를 설치합니다:
 
 npm install
-
-# 또는 yarn을 사용한다면:
-
-# yarn install
+yarn을 사용한다면:
+yarn install
 
 3. 개발 서버 실행
    설치가 완료되면, 개발 서버를 시작하여 웹 애플리케이션을 브라우저에서 볼 수 있습니다:
 
 npm start
-
-# 또는 yarn을 사용한다면:
-
-# yarn start
+yarn을 사용한다면:
+yarn start
 
 이 명령어를 실행하면 기본적으로 http://localhost:3000 주소로 브라우저가 열리며 애플리케이션이 표시됩니다.
 
